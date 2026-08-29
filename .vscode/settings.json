@@ -1,0 +1,10 @@
+{
+    "[java]": {
+        "editor.tabSize": 2,
+        "editor.insertSpaces": true,
+        "editor.formatOnSave": true,
+    },
+    "[xml]": {
+        "editor.formatOnSave": true,
+    },
+}

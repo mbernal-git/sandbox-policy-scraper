@@ -1,0 +1,18 @@
+# Maven
+target/
+
+# IDE
+# .vscode/ # let .vscode/ folder be tracked so that workspace settings can be shared
+# .idea/
+
+# Java
+*.class
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Maven wrapper
+# mvnw
+# mvnw.cmd
+# .mvn/
