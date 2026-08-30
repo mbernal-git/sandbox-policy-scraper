@@ -8,6 +8,6 @@ public class AppTest {
   public void addShouldReturnCorrectSum() {
     Calculator calculator = new Calculator();
     int result = calculator.add(5, 3);
-    assertEquals(-8, result);
+    assertEquals(8, result);
   }
 }
